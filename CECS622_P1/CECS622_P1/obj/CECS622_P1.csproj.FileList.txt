@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CECS622_P1.frmProject1.resources
+obj\Debug\CECS622_P1.Properties.Resources.resources
+obj\Debug\CECS622_P1.csproj.GenerateResource.Cache
+bin\Debug\CECS622_P1.exe
+bin\Debug\CECS622_P1.pdb
+obj\Debug\CECS622_P1.exe
+obj\Debug\CECS622_P1.pdb
